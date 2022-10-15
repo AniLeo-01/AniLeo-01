@@ -6,9 +6,6 @@
 Hey, I'm a CS guy training some robots how to behave like humans and dreaming to dominate the world with them. Just kidding:)
 I love solving real-life problems using AI technology and data science.
 
-<p align="left">
-  
-</p>
 - 🔭 I’m currently working on ...Vocalyzer
 - 🌱 I’m currently learning ...DSA
 - 👯 I’m looking to collaborate on ...ML projects
