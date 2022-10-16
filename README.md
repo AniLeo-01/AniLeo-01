@@ -12,15 +12,13 @@ I love solving real-life problems using AI technology and data science.
 
 Sometimes, I love clicking pictures that tell stories too!
 
-<!-- Social badges section -->
-<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
+
 <p align="left">
   <a href="https://twitter.com/Ani_leo123">
     <img alt="Twitter" title="Follow me on Twitter" src="https://custom-icon-badges.demolab.com/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"/></a> 
   <a href="mailto:aniruddha1.2.3.3.2.1@gmail.com">
     <img alt="Mail" title="Mail me!" src="https://custom-icon-badges.demolab.com/badge/Mail-orange?style=for-the-badge&logo=mail&logoColor=black"/></a>
-  <a href="">
+  <a href="https://www.linkedin.com/in/aniruddha-mandal-b81490188/">
     <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
