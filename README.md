@@ -3,6 +3,8 @@
 
 **`ML Developer | Data Analyst`**
 
+
+
 Hey, I'm a CS guy training some robots how to behave like humans and dreaming to dominate the world with them. Just kidding:)
 I love solving real-life problems using AI technology and data science.
 
