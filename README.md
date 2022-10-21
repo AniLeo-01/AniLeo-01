@@ -85,7 +85,7 @@ Sometimes, I love clicking pictures that tell stories too!
 
 
 - 🔭 I’m currently working on ...Vocalyzer
-- 🌱 I’m currently learning ...DSA
+- 🌱 I’m currently learning ...FastAPI
 - 👯 I’m looking to collaborate on ...ML projects
 - 🤔 I’m looking for help with ...Python Programming
 - 💬 Ask me about ...anything!
