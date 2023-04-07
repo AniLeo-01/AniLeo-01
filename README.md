@@ -84,10 +84,10 @@ Sometimes, I love clicking pictures that tell stories too!
 
 
 
-- 🔭 I’m currently working on ...Vocalyzer
-- 🌱 I’m currently learning ...FastAPI
+- 🔭 I’m currently working on ...Splitwise clone in FastAPI
+- 🌱 I’m currently learning ...Reinforcement Learning
 - 👯 I’m looking to collaborate on ...ML projects
-- 🤔 I’m looking for help with ...Python Programming
+- 🤔 I’m looking for help with ...LLMs
 - 💬 Ask me about ...anything!
 - 📫 How to reach me: ...mail me
 - 😄 Pronouns: ...He/Him
