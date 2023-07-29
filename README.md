@@ -1,6 +1,6 @@
 # 🙋 Hey, I'm Aniruddha Mandal
 
-**`ML Developer | Data Analyst`**
+**`ML Developer | Data Scientist`**
 
 <p align="center">
     <img width="600" height="400" src="cover1.gif">
