@@ -84,12 +84,12 @@ Sometimes, I love clicking pictures that tell stories too!
 
 
 
-- 🔭 I’m currently working on ...LLMs
-- 🌱 I’m currently learning ...Multimodal Modelling
-- 👯 I’m looking to collaborate on ...Research Projects
-- 🤔 I’m looking for help with ...Reinforcement Learning
+- 🔭 I’m currently working on ...Vector Search DB on Rust
+- 🌱 I’m currently learning ...Rust 🦀
+- 👯 I’m looking to collaborate on ...LLM Research
+- 🤔 I’m looking for help with ...Multimodal models using Contrastive Learning
 - 💬 Ask me about ...anything!
 - 📫 How to reach me: ...mail me
 - 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...I'm a 99% self-taught programmer
+- ⚡ Fun fact: ...I'm an average coder
 
