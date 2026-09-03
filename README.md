@@ -84,12 +84,11 @@ Sometimes, I love clicking pictures that tell stories too!
 
 
 
-- 🔭 I’m currently working on ...Vector Search DB on Rust
-- 🌱 I’m currently learning ...Rust 🦀
-- 👯 I’m looking to collaborate on ...LLM Research
-- 🤔 I’m looking for help with ...Multimodal models using Contrastive Learning
+- 🔭 I’m currently working on ...Building Social Media Agents
+- 🌱 I’m currently learning ...LLM inference optimization
+- 👯 I’m looking to collaborate on ...Mechaninistic Interpretation/ Model safety and alignment
 - 💬 Ask me about ...anything!
 - 📫 How to reach me: ...mail me
 - 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...I'm an average coder
+- ⚡ Fun fact: ...Sharks have existed on Earth for around 400 million years, which means they are older than both trees (about 350 million years) and Saturn's rings!
 
